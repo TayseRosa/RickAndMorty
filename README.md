@@ -11,7 +11,8 @@
 ## Demo
 Link do projeto em funcionamento: 
 
-<div data-snack-id="@tayse_rosa/app-rick-and-morty" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div><script async src="https://snack.expo.dev/embed.js"></script>
+<div data-snack-id="@tayse_rosa/app-rick-and-morty" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
+<script async src="https://snack.expo.dev/embed.js"></script>
 
 ---
 
